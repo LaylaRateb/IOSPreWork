@@ -12,8 +12,8 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users can see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users can see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
 
