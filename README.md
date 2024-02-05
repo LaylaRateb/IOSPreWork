@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-1) Snapchat
+1)Snapchat
 *Lighting adjuster
 *Various Bitmoji pictures
 *Choosing a filter 
