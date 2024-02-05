@@ -6,7 +6,7 @@ Submitted by: Layla Rateb
 
 **BackGround Color Chnage** is an app that features 3 labels and one button which will change the background of the screen to a random color after pressing it. 
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
