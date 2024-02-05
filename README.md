@@ -1,5 +1,7 @@
 # IOSPreWork
 
+https://imgur.com/a/RESWhj2.gif
+
 # Prework - Background Color Change
 
 Submitted by: Layla Rateb
